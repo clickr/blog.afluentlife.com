@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://clickr.github.io/blog.afluentlife.com",
+    "hubpress": "https://clickr.github.io/blog.afluentlife.com",
+    "theme": "//clickr.github.io/blog.afluentlife.com/themes/casper",
+    "images": "https://clickr.github.io/blog.afluentlife.com/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
