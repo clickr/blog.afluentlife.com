@@ -1,0 +1,14 @@
+= Fluency and Me
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2017-09-16
+:hp-tags: HubPress, Blog
+// :hp-alt-title: My English Title
+
+This is me on one of my ongoing efforts to find flow in life.
+
+I'm late coming to blogging. I don't know exactly what was wrong with me but I seem to be growing out of it.
+
+Small beginnings though.
+
+
